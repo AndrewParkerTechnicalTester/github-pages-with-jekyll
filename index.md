@@ -1,5 +1,2 @@
----
-title: "Welcome to my blog"
----
-
-I'm glad you are here. I plan to talk about ...
+Course: GitHub Pages
+Step 2: Customize your homepage
